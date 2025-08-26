@@ -3,11 +3,11 @@ void main() {
   int age = 20;
   double height = 170;
   num weight = 60.40;
-  dynamic Kampus = "Jati";
+  dynamic studying = "Jati";
 
   print("Nama : $name");
   print("Umur : $age");
   print("Tinggi badan : $height");
   print("Berat badan : $weight");
-  print("Kampus : $Kampus");
+  print("Kampus : $studying");
 }
